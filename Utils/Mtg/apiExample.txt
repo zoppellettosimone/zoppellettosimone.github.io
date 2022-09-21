@@ -1,0 +1,3 @@
+https://api.scryfall.com/cards/search?order=cmc&q=brainstorm
+
+1 ogni 100 ms
