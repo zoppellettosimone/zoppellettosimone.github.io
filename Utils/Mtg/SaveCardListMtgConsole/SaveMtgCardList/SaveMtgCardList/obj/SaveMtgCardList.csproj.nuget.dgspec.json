@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj": {}
+    "C:\\myGithubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj": {}
   },
   "projects": {
-    "D:\\GitHubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj": {
+    "C:\\myGithubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj",
+        "projectUniqueName": "C:\\myGithubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj",
         "projectName": "SaveMtgCardList",
-        "projectPath": "D:\\GitHubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj",
+        "projectPath": "C:\\myGithubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\SaveMtgCardList.csproj",
         "packagesPath": "C:\\Users\\simone.zo\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\obj\\",
+        "outputPath": "C:\\myGithubRep\\MyTCGCardApp\\Utils\\Mtg\\SaveCardListMtgConsole\\SaveMtgCardList\\SaveMtgCardList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simone.zo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
