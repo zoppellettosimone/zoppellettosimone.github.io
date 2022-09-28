@@ -1,0 +1,16 @@
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\bin\Debug\netcoreapp3.1\SaveMtgCardList.exe
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\bin\Debug\netcoreapp3.1\SaveMtgCardList.deps.json
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\bin\Debug\netcoreapp3.1\SaveMtgCardList.runtimeconfig.json
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\bin\Debug\netcoreapp3.1\SaveMtgCardList.runtimeconfig.dev.json
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\bin\Debug\netcoreapp3.1\SaveMtgCardList.dll
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\bin\Debug\netcoreapp3.1\SaveMtgCardList.pdb
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.csproj.AssemblyReference.cache
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.AssemblyInfoInputs.cache
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.AssemblyInfo.cs
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.csproj.CoreCompileInputs.cache
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.csproj.CopyComplete
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.dll
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.pdb
+D:\GitHubRep\MyTCGCardApp\Utils\Mtg\SaveCardListMtgConsole\SaveMtgCardList\SaveMtgCardList\obj\Debug\netcoreapp3.1\SaveMtgCardList.genruntimeconfig.cache
