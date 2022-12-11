@@ -1,1 +1,0 @@
-Data = tostring di Data + "," tostring dei nuovi data

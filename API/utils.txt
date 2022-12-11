@@ -1,6 +1,0 @@
-pip install fastapi
-pip install uvicorn
-
-uvicorn myTCGCardAppApi:app --reload
-
-http://127.0.0.1:8000/searchCard/GFP2-IT097
