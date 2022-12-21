@@ -5,7 +5,7 @@ from datetime import datetime as d
 app = FastAPI()
 
 origins = [
-    "*"
+    "https://zoppellettosimone.github.io/"
 ]
 
 app.add_middleware(
