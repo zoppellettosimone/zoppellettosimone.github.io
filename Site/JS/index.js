@@ -24,11 +24,15 @@ function TCGSite() {
 
         console.debug("Start Load Page");
 
-        Me.httpRequestAsync("GET", "localhost:8000/iAmLive", function (responseText) {
+        Me.httpRequestAsync("GET", "http://127.0.0.1:53993/iAmLive", function (responseText) {
 
             console.debug(responseText);
 
         });
+
+        var testSpan = document.createElement("span");
+        testSpan.innerHTML = "TestSPAN"
+        document.body.appendChild(testSpan)
 
     }
 

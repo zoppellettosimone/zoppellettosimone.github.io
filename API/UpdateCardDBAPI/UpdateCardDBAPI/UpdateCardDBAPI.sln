@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateCardDBAPI", "UpdateCardDBAPI\UpdateCardDBAPI.csproj", "{C66B9545-8601-4691-A7AF-73E62A0FB931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66B9545-8601-4691-A7AF-73E62A0FB931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66B9545-8601-4691-A7AF-73E62A0FB931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66B9545-8601-4691-A7AF-73E62A0FB931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66B9545-8601-4691-A7AF-73E62A0FB931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD9C2F6-7716-41AF-BABA-3C433E48CF8C}
+	EndGlobalSection
+EndGlobal
