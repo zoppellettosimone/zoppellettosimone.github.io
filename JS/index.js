@@ -24,7 +24,7 @@ function TCGSite() {
 
         console.debug("Start Load Page");
 
-        Me.httpRequestAsync("GET", "http://151.71.55.209:44392/weatherforecast"/*"http://151.71.55.209:53993/iAmLive"*/, function (responseText) {
+        Me.httpRequestAsync("GET", /*"http://151.71.55.209:44392/weatherforecast"*/"http://151.71.55.209:8000/iAmLive", function (responseText) {
 
             console.debug(responseText);
 
