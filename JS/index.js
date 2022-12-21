@@ -24,7 +24,7 @@ function TCGSite() {
 
         console.debug("Start Load Page");
 
-        Me.httpRequestAsync("GET", "http://127.0.0.1:53993/iAmLive", function (responseText) {
+        Me.httpRequestAsync("GET", "http://151.71.55.209:53993/iAmLive", function (responseText) {
 
             console.debug(responseText);
 
